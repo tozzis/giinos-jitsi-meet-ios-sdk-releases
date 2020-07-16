@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'GiinosJitsiMeetSDK'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Giinos Jitsi Meet iOS SDK'
   s.description      = 'Jitsi Meet SDK'
   s.homepage         = 'https://github.com/tozzis/giinos-jitsi-meet-ios-sdk-releases'
